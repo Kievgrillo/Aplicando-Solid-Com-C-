@@ -1,0 +1,11 @@
+C:\__Curso_Fundamentos_OOP\Aula_Classes1\Aula_Classes1\bin\Debug\netcoreapp3.1\Aula_Classes1.exe
+C:\__Curso_Fundamentos_OOP\Aula_Classes1\Aula_Classes1\bin\Debug\netcoreapp3.1\Aula_Classes1.deps.json
+C:\__Curso_Fundamentos_OOP\Aula_Classes1\Aula_Classes1\bin\Debug\netcoreapp3.1\Aula_Classes1.runtimeconfig.json
+C:\__Curso_Fundamentos_OOP\Aula_Classes1\Aula_Classes1\bin\Debug\netcoreapp3.1\Aula_Classes1.runtimeconfig.dev.json
+C:\__Curso_Fundamentos_OOP\Aula_Classes1\Aula_Classes1\bin\Debug\netcoreapp3.1\Aula_Classes1.dll
+C:\__Curso_Fundamentos_OOP\Aula_Classes1\Aula_Classes1\bin\Debug\netcoreapp3.1\Aula_Classes1.pdb
+C:\__Curso_Fundamentos_OOP\Aula_Classes1\Aula_Classes1\obj\Debug\netcoreapp3.1\Aula_Classes1.csprojAssemblyReference.cache
+C:\__Curso_Fundamentos_OOP\Aula_Classes1\Aula_Classes1\obj\Debug\netcoreapp3.1\Aula_Classes1.AssemblyInfoInputs.cache
+C:\__Curso_Fundamentos_OOP\Aula_Classes1\Aula_Classes1\obj\Debug\netcoreapp3.1\Aula_Classes1.AssemblyInfo.cs
+C:\__Curso_Fundamentos_OOP\Aula_Classes1\Aula_Classes1\obj\Debug\netcoreapp3.1\Aula_Classes1.dll
+C:\__Curso_Fundamentos_OOP\Aula_Classes1\Aula_Classes1\obj\Debug\netcoreapp3.1\Aula_Classes1.pdb
