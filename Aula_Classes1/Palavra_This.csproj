@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Assembly2\Assembly2.csproj" />
+    <ProjectReference Include="..\Assembly2\Classe.csproj" />
   </ItemGroup>
 
 </Project>

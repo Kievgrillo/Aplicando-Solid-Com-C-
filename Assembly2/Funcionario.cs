@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Assembly2
+namespace Classe
 {
     class Funcionario
     {

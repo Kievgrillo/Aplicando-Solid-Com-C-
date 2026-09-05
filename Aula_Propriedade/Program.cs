@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Aula_Propriedade
+namespace Propriedade
 {
     class Program
     {

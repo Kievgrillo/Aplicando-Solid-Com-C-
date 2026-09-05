@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aula_Palavra_This")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50f468ffc37c766fd335359e9d88d43cbf41fd3b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aula_Palavra_This")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aula_Palavra_This")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

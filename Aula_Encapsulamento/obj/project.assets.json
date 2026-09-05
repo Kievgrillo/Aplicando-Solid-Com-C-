@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Keven\\Repositorios\\Clean Clode\\5_Classes_Objeto\\Aula_Classes1\\Aula_Encapsulamento\\Aula_Encapsulamento.csproj",
-      "projectName": "Aula_Encapsulamento",
-      "projectPath": "C:\\Users\\Keven\\Repositorios\\Clean Clode\\5_Classes_Objeto\\Aula_Classes1\\Aula_Encapsulamento\\Aula_Encapsulamento.csproj",
+      "projectUniqueName": "C:\\Users\\Keven\\Repositorios\\Clean Clode\\5_Classes_Objeto\\Aula_Classes1\\Aula_Encapsulamento\\Encapsulamento.csproj",
+      "projectName": "Encapsulamento",
+      "projectPath": "C:\\Users\\Keven\\Repositorios\\Clean Clode\\5_Classes_Objeto\\Aula_Classes1\\Aula_Encapsulamento\\Encapsulamento.csproj",
       "packagesPath": "C:\\Users\\Keven\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Keven\\Repositorios\\Clean Clode\\5_Classes_Objeto\\Aula_Classes1\\Aula_Encapsulamento\\obj\\",
       "projectStyle": "PackageReference",

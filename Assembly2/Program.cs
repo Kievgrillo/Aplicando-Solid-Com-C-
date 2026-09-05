@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Assembly2
+namespace Classe
 {
     class Teste
     {

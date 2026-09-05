@@ -2,28 +2,28 @@
   "version": 4,
   "targets": {
     "netcoreapp3.1": {
-      "Assembly2/1.0.0": {
+      "Classe/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/Assembly2.dll": {}
+          "bin/placeholder/Classe.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Assembly2.dll": {}
+          "bin/placeholder/Classe.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Assembly2/1.0.0": {
+    "Classe/1.0.0": {
       "type": "project",
-      "path": "../Assembly2/Assembly2.csproj",
-      "msbuildProject": "../Assembly2/Assembly2.csproj"
+      "path": "../Assembly2/Classe.csproj",
+      "msbuildProject": "../Assembly2/Classe.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "netcoreapp3.1": [
-      "Assembly2 >= 1.0.0"
+      "Classe >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -33,9 +33,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Keven\\Repositorios\\Clean Clode\\5_Classes_Objeto\\Aula_Classes1\\Aula_Classes1\\Aula_Palavra_This.csproj",
-      "projectName": "Aula_Palavra_This",
-      "projectPath": "C:\\Users\\Keven\\Repositorios\\Clean Clode\\5_Classes_Objeto\\Aula_Classes1\\Aula_Classes1\\Aula_Palavra_This.csproj",
+      "projectUniqueName": "C:\\Users\\Keven\\Repositorios\\Clean Clode\\5_Classes_Objeto\\Aula_Classes1\\Aula_Classes1\\Palavra_This.csproj",
+      "projectName": "Palavra_This",
+      "projectPath": "C:\\Users\\Keven\\Repositorios\\Clean Clode\\5_Classes_Objeto\\Aula_Classes1\\Aula_Classes1\\Palavra_This.csproj",
       "packagesPath": "C:\\Users\\Keven\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Keven\\Repositorios\\Clean Clode\\5_Classes_Objeto\\Aula_Classes1\\Aula_Classes1\\obj\\",
       "projectStyle": "PackageReference",
@@ -60,8 +60,8 @@
           "framework": "netcoreapp3.1",
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Keven\\Repositorios\\Clean Clode\\5_Classes_Objeto\\Aula_Classes1\\Assembly2\\Assembly2.csproj": {
-              "projectPath": "C:\\Users\\Keven\\Repositorios\\Clean Clode\\5_Classes_Objeto\\Aula_Classes1\\Assembly2\\Assembly2.csproj"
+            "C:\\Users\\Keven\\Repositorios\\Clean Clode\\5_Classes_Objeto\\Aula_Classes1\\Assembly2\\Classe.csproj": {
+              "projectPath": "C:\\Users\\Keven\\Repositorios\\Clean Clode\\5_Classes_Objeto\\Aula_Classes1\\Assembly2\\Classe.csproj"
             }
           }
         }

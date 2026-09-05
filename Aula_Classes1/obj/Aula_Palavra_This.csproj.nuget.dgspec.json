@@ -4,12 +4,12 @@
     "C:\\Users\\Keven\\Repositorios\\Clean Clode\\5_Classes_Objeto\\Aula_Classes1\\Aula_Classes1\\Aula_Palavra_This.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Keven\\Repositorios\\Clean Clode\\5_Classes_Objeto\\Aula_Classes1\\Assembly2\\Assembly2.csproj": {
+    "C:\\Users\\Keven\\Repositorios\\Clean Clode\\5_Classes_Objeto\\Aula_Classes1\\Assembly2\\Classe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Keven\\Repositorios\\Clean Clode\\5_Classes_Objeto\\Aula_Classes1\\Assembly2\\Assembly2.csproj",
-        "projectName": "Assembly2",
-        "projectPath": "C:\\Users\\Keven\\Repositorios\\Clean Clode\\5_Classes_Objeto\\Aula_Classes1\\Assembly2\\Assembly2.csproj",
+        "projectUniqueName": "C:\\Users\\Keven\\Repositorios\\Clean Clode\\5_Classes_Objeto\\Aula_Classes1\\Assembly2\\Classe.csproj",
+        "projectName": "Classe",
+        "projectPath": "C:\\Users\\Keven\\Repositorios\\Clean Clode\\5_Classes_Objeto\\Aula_Classes1\\Assembly2\\Classe.csproj",
         "packagesPath": "C:\\Users\\Keven\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Keven\\Repositorios\\Clean Clode\\5_Classes_Objeto\\Aula_Classes1\\Assembly2\\obj\\",
         "projectStyle": "PackageReference",
@@ -102,8 +102,8 @@
             "framework": "netcoreapp3.1",
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Keven\\Repositorios\\Clean Clode\\5_Classes_Objeto\\Aula_Classes1\\Assembly2\\Assembly2.csproj": {
-                "projectPath": "C:\\Users\\Keven\\Repositorios\\Clean Clode\\5_Classes_Objeto\\Aula_Classes1\\Assembly2\\Assembly2.csproj"
+              "C:\\Users\\Keven\\Repositorios\\Clean Clode\\5_Classes_Objeto\\Aula_Classes1\\Assembly2\\Classe.csproj": {
+                "projectPath": "C:\\Users\\Keven\\Repositorios\\Clean Clode\\5_Classes_Objeto\\Aula_Classes1\\Assembly2\\Classe.csproj"
               }
             }
           }

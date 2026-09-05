@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Aula_Encapsulamento
+namespace Encapsulamento
 {
     public class Program
     {

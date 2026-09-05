@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Aula_Palavra_This
+namespace Palavra_This
 {
     public class Pessoa
     {

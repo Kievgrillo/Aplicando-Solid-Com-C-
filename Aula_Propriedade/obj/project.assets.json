@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Keven\\Repositorios\\Clean Clode\\5_Classes_Objeto\\Aula_Classes1\\Aula_Propriedade\\Aula_Propriedade.csproj",
-      "projectName": "Aula_Propriedade",
-      "projectPath": "C:\\Users\\Keven\\Repositorios\\Clean Clode\\5_Classes_Objeto\\Aula_Classes1\\Aula_Propriedade\\Aula_Propriedade.csproj",
+      "projectUniqueName": "C:\\Users\\Keven\\Repositorios\\Clean Clode\\5_Classes_Objeto\\Aula_Classes1\\Aula_Propriedade\\Propriedade.csproj",
+      "projectName": "Propriedade",
+      "projectPath": "C:\\Users\\Keven\\Repositorios\\Clean Clode\\5_Classes_Objeto\\Aula_Classes1\\Aula_Propriedade\\Propriedade.csproj",
       "packagesPath": "C:\\Users\\Keven\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Keven\\Repositorios\\Clean Clode\\5_Classes_Objeto\\Aula_Classes1\\Aula_Propriedade\\obj\\",
       "projectStyle": "PackageReference",
