@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sobrecarga_Com_Metodo", "Au
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodo_Estatico", "Metodo_Estatico\Metodo_Estatico.csproj", "{A2F24BCF-0AC8-4EE5-A5A5-EA1FA9062DAF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca", "Heranca\Heranca.csproj", "{FC3D2E39-EAE7-46E0-9159-9DE78E287A50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerancaDois", "HerancaDois\HerancaDois.csproj", "{D834C3AE-E499-47B6-A404-6B58B6E89B5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{A2F24BCF-0AC8-4EE5-A5A5-EA1FA9062DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2F24BCF-0AC8-4EE5-A5A5-EA1FA9062DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2F24BCF-0AC8-4EE5-A5A5-EA1FA9062DAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC3D2E39-EAE7-46E0-9159-9DE78E287A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC3D2E39-EAE7-46E0-9159-9DE78E287A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC3D2E39-EAE7-46E0-9159-9DE78E287A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC3D2E39-EAE7-46E0-9159-9DE78E287A50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D834C3AE-E499-47B6-A404-6B58B6E89B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D834C3AE-E499-47B6-A404-6B58B6E89B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D834C3AE-E499-47B6-A404-6B58B6E89B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D834C3AE-E499-47B6-A404-6B58B6E89B5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
