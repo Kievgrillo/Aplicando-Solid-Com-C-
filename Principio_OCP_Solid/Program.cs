@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Principio_SRP_Solid
+namespace Principio_OCP_Solid
 {
     internal class Program
     {
