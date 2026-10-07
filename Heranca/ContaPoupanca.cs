@@ -1,20 +1,21 @@
-﻿namespace Heranca
-{
-    internal class ContaPoupanca : Conta
-    {
-        public int JurosMensais { get; set; }    
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-        protected override void GetSaldo()
-        {
-            Console.WriteLine($"Saldo: {Saldo}, Juros Mensais: {JurosMensais}");
-        }
+namespace Heranca
+{
+    class ContaPoupanca : Conta
+    {
+        public double JurosMensais { get; set; }
 
         static void Main(string[] args)
         {
             ContaPoupanca contaPoupanca = new ContaPoupanca();
-            contaPoupanca.Numero = 123;
-            contaPoupanca.Saldo = 1000.00;
+            contaPoupanca.Numero = 12345;
+            contaPoupanca.Saldo = 1000.0;
             contaPoupanca.GetSaldo();
-        }
+        } 
     }
 }

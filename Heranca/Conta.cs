@@ -1,17 +1,15 @@
-﻿namespace Heranca
+﻿using System;
+
+namespace Heranca
 {
     class Conta
     {
         public int Numero { get; set; }
         public double Saldo { get; set; }
-    
-        public Conta()
+
+        public void GetSaldo()
         {
-        }
-        
-        protected virtual void GetSaldo()
-        {
-            Console.WriteLine("Saldo 99,99");
+            Console.WriteLine("Saldo 99");
         }
     }
 }

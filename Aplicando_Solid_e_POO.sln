@@ -23,7 +23,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Principio_SRP_Solid", "Prin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Principio_OCP_Solid", "Principio_OCP_Solid\Principio_OCP_Solid.csproj", "{8E646C76-E0AF-443D-B3C0-9AD4BFC2088E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Principio_OCP-2_Solid", "Principio_OCP-2_Solid\Principio_OCP-2_Solid.csproj", "{67BCD852-4304-46C8-BDE7-5FCD898837BD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Principio_OCP_Extensao_Solid", "Principio_OCP-2_Solid\Principio_OCP_Extensao_Solid.csproj", "{67BCD852-4304-46C8-BDE7-5FCD898837BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Principio_LSP", "Principio_LSP\Principio_LSP.csproj", "{E5D70D47-2798-44FF-A550-0D5AB1C2E6CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{67BCD852-4304-46C8-BDE7-5FCD898837BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67BCD852-4304-46C8-BDE7-5FCD898837BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67BCD852-4304-46C8-BDE7-5FCD898837BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5D70D47-2798-44FF-A550-0D5AB1C2E6CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5D70D47-2798-44FF-A550-0D5AB1C2E6CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5D70D47-2798-44FF-A550-0D5AB1C2E6CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5D70D47-2798-44FF-A550-0D5AB1C2E6CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
