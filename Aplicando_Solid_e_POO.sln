@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Principio_OCP_Extensao_Soli
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Principio_LSP", "Principio_LSP\Principio_LSP.csproj", "{E5D70D47-2798-44FF-A550-0D5AB1C2E6CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Principio_ISP", "Principio_ISP\Principio_ISP.csproj", "{9A260F93-37FC-46BB-A783-4A0B413008FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{E5D70D47-2798-44FF-A550-0D5AB1C2E6CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5D70D47-2798-44FF-A550-0D5AB1C2E6CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5D70D47-2798-44FF-A550-0D5AB1C2E6CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A260F93-37FC-46BB-A783-4A0B413008FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A260F93-37FC-46BB-A783-4A0B413008FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A260F93-37FC-46BB-A783-4A0B413008FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A260F93-37FC-46BB-A783-4A0B413008FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
